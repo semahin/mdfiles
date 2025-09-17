@@ -1,15 +1,11 @@
 ---
 title: results page
 description: 
-published: true
-date: 2025-09-11T12:02:05.133Z
-tags: 
+published: false
+date: 2025-09-17T10:45:43.544Z
+tags: api, update
 editor: markdown
 dateCreated: 2025-09-11T11:41:40.637Z
 ---
 
-|Пользователи|Результаты|
-|-|-|
-|admin|44%|
-
-[script1.py](/script1.py)
+Новый текст через API
