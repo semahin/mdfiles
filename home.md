@@ -2,7 +2,7 @@
 title: results page
 description: 
 published: true
-date: 2025-09-17T12:05:07.331Z
+date: 2025-09-17T12:05:34.928Z
 tags: 
 editor: markdown
 dateCreated: 2025-09-11T11:41:40.637Z
@@ -10,4 +10,4 @@ dateCreated: 2025-09-11T11:41:40.637Z
 
 | Пользователи | Результаты |
 |--------------|------------|
-| admin | 32% |
+| admin | 31% |
